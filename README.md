@@ -1,1 +1,1 @@
-#battleship on UDP multicast and TCP
+#smartwatch in LabView
